@@ -1,5 +1,6 @@
 # javaScript-split-milk-
 java Script 
+
 Spilt Milk
 
 You’re given containers lined up in a certain order holding certain volumes of milk. The milk in each container is poured into the successive container and this is continued till the last, given a total pours of one less than the number of containers. If the volume of milk poured into a container is greater than available volume it gets spilt. Find the volume of milk collected in the last container and also the volume of milk spilt during the pours.
